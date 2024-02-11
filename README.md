@@ -7,7 +7,7 @@
     > Debian GNU/Linux Bash
 
     ```bash
-      sudo apt install python3.10 && apt install python3.10-venv
+      sudo apt install python3.10
     ```
 
 ## 📄 License
